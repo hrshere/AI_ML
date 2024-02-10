@@ -1,7 +1,6 @@
 '''match statements can be used to conditionally run code that matches certain values'''
 
-name = input("What's your name?")
-
+name = input("What's your name?").strip().capitalize() 
 match name:
     case "Harry":
         print('01')

@@ -12,5 +12,11 @@ for person in people:
     if person["name"] == name:
         print(f"found {person['number']}")
         break
-    else:
-        print("Not found")
+else:
+    print("Not found")
+
+# add contacts
+    
+# delete contacts
+    
+# update contacts

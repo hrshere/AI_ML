@@ -2,7 +2,7 @@
 
 def main():
     f = make_incrementor(42)
-    print(f(0))
+    print(f(3))
 
 def make_incrementor(n):
     '''returns the sum of its two arguments'''

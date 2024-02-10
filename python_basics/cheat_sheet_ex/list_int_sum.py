@@ -1,0 +1,1 @@
+'''find pairs of integers in list so that their sum is equal to integer x'''
